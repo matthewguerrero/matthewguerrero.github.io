@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Abyssinica STL', serif;
+    font-size: 50px;
+}
+p{
+    font-family: 'Abyssinica STL', serif;
+    font-size: 20px;
+}
+body{background-color: #f5f5f5;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+}
+li {
+display: inline-block;
+}
+footer{
+    background-color: #41393d;
+    color: #ffffff;
+    margin: 100px;
+}
